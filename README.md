@@ -30,9 +30,9 @@ POST /api/users
 İstek Gövdesi:
 
 {
-"username": "john_doe",
-"email": "john@example.com",
-"password": "gizlisenifre"
+"username": "john_doe",  
+"email": "john@example.com",  
+"password": "gizlisenifre"  
 }
 
 Kullanıcı Güncelleme
