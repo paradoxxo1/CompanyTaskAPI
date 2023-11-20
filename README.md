@@ -1,6 +1,6 @@
 **CompanyTaskAPI**
 CompanyTaskAPI, Swagger belgeleri kullanılarak kullanıcı yönetimi sağlayan bir web API'dir.
-
+<img src="https://assets.materialup.com/uploads/01c5d625-db50-4124-9e1b-3ada4a6fd266/preview.gif" />
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://assets.materialup.com/uploads/01c5d625-db50-4124-9e1b-3ada4a6fd266/preview.gif"/>
 
 ## Başlangıç
