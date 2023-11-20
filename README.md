@@ -1,7 +1,7 @@
 **CompanyTaskAPI**
 CompanyTaskAPI, Swagger belgeleri kullanılarak kullanıcı yönetimi sağlayan bir web API'dir.
 
-<img align="right" alt="Coder GIF" height=250 width=350 src="[https://media.tenor.com/QWdPngpHxZ8AAAAd/family-guy-css.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.uplabs.com%2Fposts%2Fapi-animation&psig=AOvVaw3n3QfN3uq9GhJJzKO5O9Og&ust=1700556337448000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqGAoTCNiFq5eY0oIDFQAAAAAdAAAAABCpAg)" />
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://assets.materialup.com/uploads/01c5d625-db50-4124-9e1b-3ada4a6fd266/preview.gif"/>
 
 ## Başlangıç
 Projeye başlamadan önce şu adımları izleyin:
